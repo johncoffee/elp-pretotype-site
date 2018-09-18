@@ -1,4 +1,0 @@
-baseURL = "https://localhost:3000"
-languageCode = "en-uk"
-title = "ELP"
-theme = "elp-theme"
