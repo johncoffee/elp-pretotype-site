@@ -1,0 +1,10 @@
+---
+label: Product page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: header
+- type: textarea
+  name: description
+  label: Description
